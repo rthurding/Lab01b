@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">First Really Fun App</string>
-    <string name="increment">Add 1</string>
+    <string name="app_name">App 1</string>
+    <string name="increment"> Add 1 </string>
     <string name="decrement">Remove 1</string>
 </resources>
